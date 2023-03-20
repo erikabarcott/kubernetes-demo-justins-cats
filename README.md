@@ -1,7 +1,7 @@
-# KITTIES
+# Justin's Cats
 
 
-KITTIES is a basic demo you can use for various things. It has a PHP front end which pulls image URLs out of a PostgreSQL database.
+This is a basic demo you can use for working with persistent data in Kubernetes deployments, as well as a lot of other things. This demo has a PHP front end which pulls image URLs out of a PostgreSQL database. Okay I admit it, it's all cat pictures.
 
 ## Requirements
 
